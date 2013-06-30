@@ -1,18 +1,17 @@
 {
   "name": "aurahub",
-  "description": "Aura Demo - Integration with Github's APIs",
+  "description": "Aura Calendar",
   "version": "0.1.0",
   "author": {
-    "name": "Stephane Bellity & Addy Osmani"
+    "name": "Addy Osmani"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aurajs/aurahub.git"
+    "url": "git://github.com/addyosmani/aura-calendar-component.git"
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "undefined/blob/master/LICENSE-MIT"
+      "type": "MIT"
     }
   ],
   "engines": {
